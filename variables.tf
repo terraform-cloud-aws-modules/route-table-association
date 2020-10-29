@@ -1,3 +1,7 @@
+variable "subnet_cidr" {
+  type  = list
+}
+
 variable "subnet_id" {
   type  = list
 }
